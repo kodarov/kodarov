@@ -2,7 +2,7 @@
 
 #### About me
 
-* I am programmer from Astrakhan :computer:
+* I am 33 year old programmer from Astrakhan :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * I learn Computer science in [MFPU](https://synergy.ru/) (Moscow University of Finance and Industry "Synergy"). :office:
 * My Java expirience is 1 years :watch:
